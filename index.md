@@ -1,4 +1,5 @@
-## Midnight Commander Skin Editor
-JS port of [PHP parser](https://midnight-commander.org/nopaste/skin_parser/) for Midnight Commander skins.
+## JS Apps
 
-Run app: [https://phplego.github.io/mc/](https://phplego.github.io/mc/)
+#### JS port of PHP parserfor Midnight Commander skins. 
+
+Run app: [https://skins.midnight-commander.org/](https://skins.midnight-commander.org/)
