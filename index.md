@@ -5,6 +5,6 @@
 Run app: [https://skins.midnight-commander.org/](https://skins.midnight-commander.org/)
 
 
-#### Dynamic crypto capitalisation chart
+#### Dynamic Crypto Capitalization Pie Chart
 
 Run app: [https://phplego.github.io/pie/](https://phplego.github.io/pie/)
